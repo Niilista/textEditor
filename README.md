@@ -1,2 +1,2 @@
 # textEditor
-A simple text editor app with objective to practice coding skills.
+A simple text editor app to practice coding skills.
